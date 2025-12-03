@@ -39,12 +39,14 @@ Empty Name Validation	Validate error message for missing name input
 Valid Input Registration	Dataset-driven input testing for names and topics
 
 🧪 Dataset Used
-Name	Option Value	Option Text
-Jack	ARTS_AND_CULTURE	Arts and Culture
-Jerry	CAREER_AND_BUSINESS	Career and Business
-John	EDUCATION_AND_LEARNING	Education and Learning
-Jim	FASHION_AND_BEAUTY	Fashion and Beauty
-Jane	GAMES	Games
+| Name  | Option Value           | Topic Text             |
+| ----- | ---------------------- | ---------------------- |
+| Jack  | ARTS_AND_CULTURE       | Arts and Culture       |
+| Jerry | CAREER_AND_BUSINESS    | Career and Business    |
+| John  | EDUCATION_AND_LEARNING | Education and Learning |
+| Jim   | FASHION_AND_BEAUTY     | Fashion and Learning   |
+| Jane  | GAMES                  | Games                  |
+
 
 🔧 Tools & Technologies
 Tool	Purpose
