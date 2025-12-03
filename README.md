@@ -15,19 +15,6 @@ Error validation on empty form submission
 
 Successful registration using multiple test data inputs
 
-🏗 Project Structure
-
-
-src/test/java
-    ├── pages
-    │     ├── WelcomePage.java
-    │     └── RegistrationPage.java
-    ├── tests
-    │     ├── WelcomePageTest.java
-    │     └── RegistrationPageTest.java
-    └── testng.xml
-
-
 
 🎯 Project Objective
 
