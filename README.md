@@ -1,40 +1,32 @@
-Project Title
+🧪 Meetup App Automation Testing – Selenium + TestNG + POM
+📍 Project Overview
 
-Meetup App Test Automation Using Selenium with Page Object Model
-
-Project Overview
-
-This project automates the testing of the Meetup Web Application available at:
+This project automates the UI and functional testing of the Meetup Web Application using Selenium WebDriver, TestNG, and the Page Object Model (POM) design pattern.
+The application under test:
 🔗 https://qameetup.ccbp.tech/
 
-The goal is to validate the UI and Functionality of both Welcome Page and Registration Page using Selenium WebDriver, TestNG, and Page Object Model (POM).
+The objective of this test automation suite is to verify:
 
-The project includes:
+UI validation of Welcome and Registration pages
 
-Page classes for each page (WelcomePage, RegistrationPage)
+Page navigation and functionality
 
-Test classes executing ordered TestNG test cases
+Error validation on empty form submission
 
-Assertions for validations
-
-UI verification & functional testing
-
-Dataset-based test execution
-
-The test suite is developed using Page Object Model (POM) design pattern with Selenium WebDriver, Java, and TestNG.
+Successful registration using multiple test data inputs
 
 🏗 Project Structure
 
 
-src
- └── test
-     └── java
-         ├── pages
-         │    ├── WelcomePage.java
-         │    └── RegistrationPage.java
-         └── tests
-              ├── WelcomePageTest.java
-              └── RegistrationPageTest.java
+src/test/java
+    ├── pages
+    │     ├── WelcomePage.java
+    │     └── RegistrationPage.java
+    ├── tests
+    │     ├── WelcomePageTest.java
+    │     └── RegistrationPageTest.java
+    └── testng.xml
+
 
 
 🎯 Project Objective
