@@ -7,6 +7,8 @@ This project automates the UI and functional testing of the Meetup Web Applicati
 The test suite is developed using Page Object Model (POM) design pattern with Selenium WebDriver, Java, and TestNG.
 
 🏗 Project Structure
+
+
 src
  └── test
      └── java
