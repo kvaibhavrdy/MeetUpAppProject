@@ -11,11 +11,12 @@ src
  └── test
      └── java
          ├── pages
-         │     ├── WelcomePage.java
-         │     └── RegistrationPage.java
-         ├── tests
-               ├── WelcomePageTest.java
-               └── RegistrationPageTest.java
+         │    ├── WelcomePage.java
+         │    └── RegistrationPage.java
+         └── tests
+              ├── WelcomePageTest.java
+              └── RegistrationPageTest.java
+
 
 🎯 Project Objective
 
@@ -28,15 +29,19 @@ To validate UI and functionality of the Meetup App using Selenium automation inc
 
 💡 Test Scenarios
 🏠 Welcome Page Tests
-Test Case	Description
-UI Verification	Validate app logo, heading, description and image
-Navigation	Validate navigation to Registration page when clicking Register button
+| Test Name                  | Description                                         |
+| -------------------------- | --------------------------------------------------- |
+| UI verification            | Check app logo, heading, description & Meetup image |
+| Register button navigation | Validate navigation to registration page            |
+
 
 📝 Registration Page Tests
-Test Case	Description
-UI Verification	Validate logo, form labels, page heading and register image
-Empty Name Validation	Validate error message for missing name input
-Valid Input Registration	Dataset-driven input testing for names and topics
+| Test Name                   | Description                                             |
+| --------------------------- | ------------------------------------------------------- |
+| UI verification             | Verify heading, images, name & topic labels             |
+| Empty input validation      | Verify error message                                    |
+| Valid input dataset testing | Validate navigation & personalized Welcome page message |
+
 
 🧪 Dataset Used
 | Name  | Option Value           | Topic Text             |
@@ -49,12 +54,14 @@ Valid Input Registration	Dataset-driven input testing for names and topics
 
 
 🔧 Tools & Technologies
-Tool	Purpose
-Selenium WebDriver	UI automation
-TestNG	Test execution & reporting
-Java	Programming language
-Maven	Build tool & dependency management
-Page Object Model (POM)	Test design pattern
-ChromeDriver	Browser driver
+| Technology         | Description                  |
+| ------------------ | ---------------------------- |
+| Selenium WebDriver | Browser automation           |
+| TestNG             | Test execution & assertions  |
+| Page Object Model  | Test structure & reusability |
+| Java               | Programming language         |
+| Maven              | Dependency management        |
+| ChromeDriver       | Browser driver               |
+
          
 
