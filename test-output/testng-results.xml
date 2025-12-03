@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-12-03T09:37:20 IST" name="RegistrationFormTest3" finished-at="2025-12-03T09:37:44 IST" duration-ms="23602">
+    <groups>
+    </groups>
+    <test started-at="2025-12-03T09:37:20 IST" name="LoginAndHomePageTest" finished-at="2025-12-03T09:37:44 IST" duration-ms="23602">
+      <class name="RegistrationPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:RegistrationPageTest@1ff4931d]" started-at="2025-12-03T09:37:20 IST" name="setup" finished-at="2025-12-03T09:37:24 IST" duration-ms="3504" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Test1()[pri:0, instance:RegistrationPageTest@1ff4931d]" started-at="2025-12-03T09:37:24 IST" name="Test1" finished-at="2025-12-03T09:37:24 IST" duration-ms="473" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method is-config="true" signature="close()[pri:0, instance:RegistrationPageTest@1ff4931d]" started-at="2025-12-03T09:37:24 IST" name="close" finished-at="2025-12-03T09:37:25 IST" duration-ms="772" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:RegistrationPageTest@1ff4931d]" started-at="2025-12-03T09:37:25 IST" name="setup" finished-at="2025-12-03T09:37:27 IST" duration-ms="1828" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Test2()[pri:0, instance:RegistrationPageTest@1ff4931d]" started-at="2025-12-03T09:37:27 IST" name="Test2" finished-at="2025-12-03T09:37:27 IST" duration-ms="422" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+        <test-method is-config="true" signature="close()[pri:0, instance:RegistrationPageTest@1ff4931d]" started-at="2025-12-03T09:37:27 IST" name="close" finished-at="2025-12-03T09:37:28 IST" duration-ms="975" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:RegistrationPageTest@1ff4931d]" started-at="2025-12-03T09:37:28 IST" name="setup" finished-at="2025-12-03T09:37:30 IST" duration-ms="1889" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Test3(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:RegistrationPageTest@1ff4931d]" started-at="2025-12-03T09:37:30 IST" name="Test3" data-provider="RegistrationData" finished-at="2025-12-03T09:37:31 IST" duration-ms="1001" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Jack]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ARTS_AND_CULTURE]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Arts and Culture]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test3 -->
+        <test-method is-config="true" signature="close()[pri:0, instance:RegistrationPageTest@1ff4931d]" started-at="2025-12-03T09:37:31 IST" name="close" finished-at="2025-12-03T09:37:31 IST" duration-ms="373" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:RegistrationPageTest@1ff4931d]" started-at="2025-12-03T09:37:31 IST" name="setup" finished-at="2025-12-03T09:37:33 IST" duration-ms="1707" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Test3(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:RegistrationPageTest@1ff4931d]" started-at="2025-12-03T09:37:33 IST" name="Test3" data-provider="RegistrationData" finished-at="2025-12-03T09:37:35 IST" duration-ms="1447" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Jerry]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[CAREER_AND_BUSINESS]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Career and Business]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test3 -->
+        <test-method is-config="true" signature="close()[pri:0, instance:RegistrationPageTest@1ff4931d]" started-at="2025-12-03T09:37:35 IST" name="close" finished-at="2025-12-03T09:37:35 IST" duration-ms="270" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:RegistrationPageTest@1ff4931d]" started-at="2025-12-03T09:37:35 IST" name="setup" finished-at="2025-12-03T09:37:37 IST" duration-ms="1636" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Test3(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:RegistrationPageTest@1ff4931d]" started-at="2025-12-03T09:37:37 IST" name="Test3" data-provider="RegistrationData" finished-at="2025-12-03T09:37:38 IST" duration-ms="1046" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[John]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[EDUCATION_AND_LEARNING]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Education and Learning]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test3 -->
+        <test-method is-config="true" signature="close()[pri:0, instance:RegistrationPageTest@1ff4931d]" started-at="2025-12-03T09:37:38 IST" name="close" finished-at="2025-12-03T09:37:38 IST" duration-ms="202" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:RegistrationPageTest@1ff4931d]" started-at="2025-12-03T09:37:38 IST" name="setup" finished-at="2025-12-03T09:37:39 IST" duration-ms="1683" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Test3(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:RegistrationPageTest@1ff4931d]" started-at="2025-12-03T09:37:39 IST" name="Test3" data-provider="RegistrationData" finished-at="2025-12-03T09:37:40 IST" duration-ms="911" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Jim]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[FASHION_AND_BEAUTY]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Fashion and Learning]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test3 -->
+        <test-method is-config="true" signature="close()[pri:0, instance:RegistrationPageTest@1ff4931d]" started-at="2025-12-03T09:37:40 IST" name="close" finished-at="2025-12-03T09:37:41 IST" duration-ms="335" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:RegistrationPageTest@1ff4931d]" started-at="2025-12-03T09:37:41 IST" name="setup" finished-at="2025-12-03T09:37:42 IST" duration-ms="1743" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Test3(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:RegistrationPageTest@1ff4931d]" started-at="2025-12-03T09:37:42 IST" name="Test3" data-provider="RegistrationData" finished-at="2025-12-03T09:37:43 IST" duration-ms="992" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Jane]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[GAMES]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Games]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test3 -->
+        <test-method is-config="true" signature="close()[pri:0, instance:RegistrationPageTest@1ff4931d]" started-at="2025-12-03T09:37:43 IST" name="close" finished-at="2025-12-03T09:37:44 IST" duration-ms="296" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- RegistrationPageTest -->
+      <class name="WelcomePageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:WelcomePageTest@206a70ef]" started-at="2025-12-03T09:37:20 IST" name="setup" finished-at="2025-12-03T09:37:24 IST" duration-ms="3500" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Test1()[pri:0, instance:WelcomePageTest@206a70ef]" started-at="2025-12-03T09:37:24 IST" name="Test1" finished-at="2025-12-03T09:37:24 IST" duration-ms="217" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method is-config="true" signature="close()[pri:0, instance:WelcomePageTest@206a70ef]" started-at="2025-12-03T09:37:24 IST" name="close" finished-at="2025-12-03T09:37:25 IST" duration-ms="907" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:WelcomePageTest@206a70ef]" started-at="2025-12-03T09:37:25 IST" name="setup" finished-at="2025-12-03T09:37:27 IST" duration-ms="1836" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Test2()[pri:0, instance:WelcomePageTest@206a70ef]" started-at="2025-12-03T09:37:27 IST" name="Test2" finished-at="2025-12-03T09:37:27 IST" duration-ms="245" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+        <test-method is-config="true" signature="close()[pri:0, instance:WelcomePageTest@206a70ef]" started-at="2025-12-03T09:37:27 IST" name="close" finished-at="2025-12-03T09:37:28 IST" duration-ms="1182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- WelcomePageTest -->
+    </test> <!-- LoginAndHomePageTest -->
+  </suite> <!-- RegistrationFormTest3 -->
+</testng-results>
